@@ -40,3 +40,14 @@ yarn-error.log*
 **/*.log
 package-lock.json
 **/*.bun
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
